@@ -1,4 +1,3 @@
-#### (This README file is still in the making...)
 # Dockerizing and deploying a simple flask application on ECS with load balancing
 
 ### Prerequisites:
